@@ -1,0 +1,31 @@
+1/26/23
+for octal conversion, group by 3 bits,0's are 0's, but 1's should be added up like 2^3 * 1 + 1*2^4
+
+TO RUN IN C
+cc filename.c -o filename
+./filename
+
+printf("%o\n", 43); //octal conversion in C
+
+1. Convert 43 to unsigned 8-bit binary representation.
+00101011
+
+2. Convert the answer to the first part to Octal.
+53
+3. Convert the answer to the first part to Hexadecimal.
+0X2B
+4. Convert -43 to two's complement binary representation.
+11010100
+As for ucu, -ask how to pay secured card 
+
+5. Convert -43 to sign-magnitude representation.
+
+6. Convert the answer to parts four and five to Octal and Hexadecimal
+
+7. Find the 32-bit representation of the following MIPS instructions. Convert the representation to Hexadecimal.
+
+    a) add $t0, $s2, $s6
+
+    b) lw $t3, -12($t1)
+
+    c) addi $s1, $s2, 3
