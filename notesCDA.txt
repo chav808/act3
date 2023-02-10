@@ -162,3 +162,22 @@ j Exit
 
 
 #to load you need to add 1 read and then store in this case
+
+2/9/23
+
+int leaf_example (int g, int h, int i, int j)
+{
+int f;
+f = (g + h) – (i + j);
+return f;
+}
+
+in mips :
+
+leaf_example:
+add $t0,$a0,$a1 #$t0 = g + h
+add $t1, $a2, $a3  #
+sub $v0, $t0, $t1  #
+jr a2 #jump back to register a2  
+
+
