@@ -180,4 +180,4 @@ add $t1, $a2, $a3  #
 sub $v0, $t0, $t1  #
 jr a2 #jump back to register a2  
 
-
+-We can use negative remainders for MIPS
