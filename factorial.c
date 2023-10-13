@@ -1,5 +1,6 @@
 #include <stdio.h>
 //run this thru gdb again
+//didn't work
 int main()
 {
   int num;
