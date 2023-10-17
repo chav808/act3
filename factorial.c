@@ -1,6 +1,9 @@
 #include <stdio.h>
 //run this thru gdb again
-//didn't work
+/*
+next one will be sequence of the fibs
+or percent gain calc
+  */
 int main()
 {
   int num;
