@@ -3,6 +3,9 @@
 /*
 next one will be sequence of the fibs
 or percent gain calc
+
+usin gcc [-c|-S|-E] [-std=standard]
+
   */
 int main()
 {
