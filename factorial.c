@@ -6,6 +6,9 @@ or percent gain calc
 
 usin gcc [-c|-S|-E] [-std=standard]
 
+-update progress in G1 via backtesting
+-CEN stuff via remote desktop
+-CAP stuff rn 10.20.23 via normal desktop
   */
 int main()
 {
