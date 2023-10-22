@@ -9,6 +9,7 @@ usin gcc [-c|-S|-E] [-std=standard]
 -update progress in G1 via backtesting
 -CEN stuff via remote desktop
 -CAP stuff rn 10.20.23 via normal desktop
+-CAP stuff finished for the most part broke main.dart tho
   */
 int main()
 {
