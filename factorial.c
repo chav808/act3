@@ -10,6 +10,7 @@ usin gcc [-c|-S|-E] [-std=standard]
 -CEN stuff via remote desktop
 -CAP stuff rn 10.20.23 via normal desktop
 -CAP stuff finished for the most part broke main.dart tho
+^check old commit to fix the routing
   */
 int main()
 {
