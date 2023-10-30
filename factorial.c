@@ -11,6 +11,11 @@ usin gcc [-c|-S|-E] [-std=standard]
 -CAP stuff rn 10.20.23 via normal desktop
 -CAP stuff finished for the most part broke main.dart tho
 ^check old commit to fix the routing
+  
+ 10.30.23
+ -fixed allat stuff above
+ -found link for CEN page to clone, get tailwind working again
+ and faq + routing and other stuff to be  handled today via remote desktop
   */
 int main()
 {
