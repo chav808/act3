@@ -20,7 +20,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   10.31.23
   -finished the faq + routing stuff, pasting whatever tasks r pertinent
   -get tailwind working again
-  -backtest more, trade fomc news candle tmmrw w/ 1 ES micro con
+  -5 cs electives, operating sys, and 1 nat sci elective 
+  -spring24' ^ cuts that to 3 cs electives and 1 sci elective
+  -sum 24' ^ cuts that to 2 cs electives
+  -fall24' ^ we take the last 2 and it cuts that to done 
+  
+  -backtest more, n avoid fomc news trades tmmrw after open
 
   
   */
