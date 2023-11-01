@@ -16,6 +16,13 @@ usin gcc [-c|-S|-E] [-std=standard]
  -fixed allat stuff above
  -found link for CEN page to clone, get tailwind working again
  and faq + routing and other stuff to be  handled today via remote desktop
+  
+  10.31.23
+  -finished the faq + routing stuff, pasting whatever tasks r pertinent
+  -get tailwind working again
+  -backtest more, trade fomc news candle tmmrw w/ 1 ES micro con
+
+  
   */
 int main()
 {
