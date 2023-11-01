@@ -24,7 +24,7 @@ usin gcc [-c|-S|-E] [-std=standard]
   -spring24' ^ cuts that to 3 cs electives and 1 sci elective
   -sum 24' ^ cuts that to 2 cs electives
   -fall24' ^ we take the last 2 and it cuts that to done 
-  
+  -
   -backtest more, n avoid fomc news trades tmmrw after open
 
   
