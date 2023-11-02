@@ -27,7 +27,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   -
   -backtest more, n avoid fomc news trades tmmrw after open
 
-  
+  11.2.23
+  -g1.5 in morning
+  -g1 if ready by 8
+  -g2 after 4(CEN css stuff)
+
+  7pm cutoff
   */
 int main()
 {
