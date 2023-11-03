@@ -31,6 +31,8 @@ usin gcc [-c|-S|-E] [-std=standard]
   -g1.5 in morning
   -g1 if ready by 8
   -g2 after 4(CEN css stuff)
+  11.3.23
+  -g1 taken care of
 
   7pm cutoff
   */
