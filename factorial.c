@@ -33,8 +33,10 @@ usin gcc [-c|-S|-E] [-std=standard]
   -g2 after 4(CEN css stuff)
   11.3.23
   -g1 taken care of
-
+  
   7pm cutoff
+  11.4.23
+  -ALL CEN stuff
   */
 int main()
 {
