@@ -38,6 +38,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   11.4.23
   -ALL CEN stuff
   & intro 2 ml
+
+  11.5.23
+  -CEN stuff:
+  That api key stuff being hidden is whats causing this page 
+  to not run after npm start
+  
   */
 int main()
 {
