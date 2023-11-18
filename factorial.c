@@ -43,7 +43,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   -CEN stuff:
   That api key stuff being hidden is whats causing this page 
   to not run after npm start
-  
+
+  11.17.23
+  -CEN stuff:
+  1. routing to the profile and about
+  2. waiting on last minute changes from sum1
+  3. $$$?
   */
 int main()
 {
