@@ -49,7 +49,16 @@ usin gcc [-c|-S|-E] [-std=standard]
   1. routing to the profile and about
   2. waiting on last minute changes from sum1
   3. $$$?
+
+  11.19.23
+  -More CEN stuff:
+  1.Read documentation to understand whats gonna be said 
+  for presentation. 
+  2.complete finishing touches to site 
+  3.implement mp4's to site's dashboard?
+  
   */
+
 int main()
 {
   int num;
