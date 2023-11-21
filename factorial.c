@@ -56,6 +56,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   for presentation. 
   2.complete finishing touches to site 
   3.implement mp4's to site's dashboard?
+
+  11.20.23
+  ^Same as above tho new variables hav enetered
+  -4n4 pushes code but where? GH Desktop pushes? find it & implement to our version
+  -issue of about us page persists format it best to your ability
+
   
   */
 
