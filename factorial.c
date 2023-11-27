@@ -62,7 +62,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   -4n4 pushes code but where? GH Desktop pushes? find it & implement to our version
   -issue of about us page persists format it best to your ability
 
-  
+  11.27.23
+  -find my average RR from trades and create a risk mngment strat based on tjr's
+  funded acc 2%
   */
 
 int main()
