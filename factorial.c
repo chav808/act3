@@ -65,6 +65,10 @@ usin gcc [-c|-S|-E] [-std=standard]
   11.27.23
   -find my average RR from trades and create a risk mngment strat based on tjr's
   funded acc 2%
+
+  11.28.23
+  g2: psh chngs 2 sc, make vid, read instrucions doc
+  g1: same as 11.27.23
   */
 
 int main()
