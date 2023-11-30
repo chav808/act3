@@ -69,6 +69,12 @@ usin gcc [-c|-S|-E] [-std=standard]
   11.28.23
   g2: psh chngs 2 sc, make vid, read instrucions doc
   g1: same as 11.27.23
+  
+  11.29.23
+  backtest for 1hr ish
+  sys progrmmn for 1hr ish 
+  
+  
   */
 
 int main()
