@@ -74,7 +74,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   backtest for 1hr ish
   sys progrmmn for 1hr ish 
   
-  
+  11.30.23
+  sys programm for8:35-9:35
+  then backtstng till 10:35
   */
 
 int main()
