@@ -77,6 +77,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   11.30.23
   sys programm for8:35-9:35
   then backtstng till 10:35
+12.14.23
+reconfigure TR document
+  
   */
 
 int main()
