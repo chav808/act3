@@ -77,8 +77,15 @@ usin gcc [-c|-S|-E] [-std=standard]
   11.30.23
   sys programm for8:35-9:35
   then backtstng till 10:35
-12.14.23
-reconfigure TR document
+  
+  12.14.23
+  reconfigure TR document
+  
+  12.16.23
+  -finish the plan for dfw to hnd
+  -small proj w/ C#
+  -backtest n get the plan even more defined, remove the worry
+  from the trades. focus on setting up the bare .20 move
   
   */
 
