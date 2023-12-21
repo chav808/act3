@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 //run this thru gdb again
 /*
@@ -86,6 +87,14 @@ usin gcc [-c|-S|-E] [-std=standard]
   -small proj w/ C#
   -backtest n get the plan even more defined, remove the worry
   from the trades. focus on setting up the bare .20 move
+
+  12.20.23
+  -backtest open from days missed
+  **-for jp get da days(call tmrw + mssg snt)
+  -follow that yt vid on dev work where it suggests to build and then deploy a program
+   my 1st thought was to make a more accessible/free version of tradezella as it is essentially
+   a planner but with api's from ppl's brokers. scale it as much as possible via tt marketing
+  -
   
   */
 
