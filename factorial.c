@@ -95,6 +95,13 @@ usin gcc [-c|-S|-E] [-std=standard]
    my 1st thought was to make a more accessible/free version of tradezella as it is essentially
    a planner but with api's from ppl's brokers. scale it as much as possible via tt marketing
   -
+
+  1.1.24
+  -jp trip done
+  -check the 3 classes to see if theres a syllabus on Goog...
+  if yes check if textbooks required write it here,
+  if more than 1 textbook is needed than get the bookpack
+  else if its 1 textbook dont get the bookpack.
   
   */
 
