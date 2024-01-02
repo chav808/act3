@@ -99,9 +99,39 @@ usin gcc [-c|-S|-E] [-std=standard]
   1.1.24
   -jp trip done
   -check the 3 classes to see if theres a syllabus on Goog...
-  if yes check if textbooks required write it here,
+  check em', if textbooks required write it here,
   if more than 1 textbook is needed than get the bookpack
   else if its 1 textbook dont get the bookpack.
+
+  cop4610 op sys taught by KBA (IN PERSON) (Tue. & Thur. 12:30pm-1:45pm) @ 105 in PG6
+  ^syllbus not online must wait it out till 6th or sumn
+  
+  cop4751 adv DB mang taught by Bahreini (ONLINE)
+  ^syllbus not online must wait it out till 6th or sumn
+  
+  cts4408 DB admin taught by Mikulski (ONLINE)
+  ^syllbus not online must wait it out till 6th or sumn
+
+  consensus: due to 2 of 3 being online i decline the panthr bookpack
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  Project Idea: *WebApp* TradeZella but Free,  (goal is to get a whole lotta users not 2 customers)
+  
+  Phases of development to follow https://theproductmanager.com/topics/software-development-life-cycle/
+  Use the Weighted scoring for the features, for example, since we want to track the user's trades
+  the highest weighted features/non-negotiables would be of course showing the user's trades neatly and 
+  letting them type AND showing stats/trends in their behavior. Those 3 are necessary
+  (trade's info being type of contract, time spent in the trade, profit, etc.)
+  
+  
+  Planning phase- 1.As a user I would like to see my trades on the main page of the app
+                  2.As a user I would like a text box to write text into under the trade details on the main page of the app.
+                  3.As a user I would like there to be stats showing me trends in my trades on the main page of the app.
+                  (Biggest losses on big news days, major losses during counter trend trades etc.)
+                  4.As a user I would like this to be saved for next time I use the app.
+                  
+                  
+  
   
   */
 
