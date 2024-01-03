@@ -124,11 +124,13 @@ usin gcc [-c|-S|-E] [-std=standard]
   (trade's info being type of contract, time spent in the trade, profit, etc.)
   
   
-  Planning phase- 1.As a user I would like to see my trades on the main page of the app
-                  2.As a user I would like a text box to write text into under the trade details on the main page of the app.
-                  3.As a user I would like there to be stats showing me trends in my trades on the main page of the app.
-                  (Biggest losses on big news days, major losses during counter trend trades etc.)
-                  4.As a user I would like this to be saved for next time I use the app.
+  Planning phase- 
+                  
+   1.As a user I would like to see my trades on the main page of the app
+   2.As a user I would like a text box to write text into under the trade details on the main page of the app.
+   3.As a user I would like there to be stats showing me trends in my trades on the main page of the app.
+   (Biggest losses on big news days, major losses during counter trend trades etc.)
+   4.As a user I would like this to be saved for next time I use the app.
                   
                   
   
