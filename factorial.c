@@ -124,15 +124,51 @@ usin gcc [-c|-S|-E] [-std=standard]
   (trade's info being type of contract, time spent in the trade, profit, etc.)
   
   
-  Planning phase- 
+    Software Requirements Specification
+                  
+    1. Introduction - Dango Trade Diary (named after dangos that got 3 rice balls, the design is similar its 3 circles 
+    on your screen top one is your trade[green or red], middle is the details section / notes[white]), last is stats based
+    on your trade/similarities noticed -->(3rd losing trade this week have all been counter trend and held over 10mins)
+
+           1.1 Purpose - For traders to gain insight by entering their trades and seeing their statistics based on the data.
+
+           1.2 Intended Audience - Unprofitable traders & profitable traders alike (talkin bout the software not the SRS doc)
+
+           1.3 Intended Use - As a journal of sorts to be written into daily from the user's mobile phone or laptop/PC via browser.
+
+           1.4 Product Scope - We hope to expand to 100k users as the product is free until further notice, accessible via chrome, safari
+           EDGE, and most browsers.
+
+           1.5 Definitions and Acronyms - SL stop loss, TP take profit, HOD high of day, LOD of day, 0dte 0 day to expration, cons contracts etc.
+
+2. Overall Description
+
+           2.1 User Needs - The product will be used by primary users which are traders, swing/day traders who would like to track their trades using
+           the web app and recieve analytics based on their entered trades which they can learn from and notice pattern or behaviors.
+
+           2.2 Assumptions and Dependencies - We are assuming they are on a laptop/desktop computer with at least 2GB of RAM with browsers commonly used in 2024 
+           installed on said computers, Google Chrome, Microsoft Edge, Brave etc.
+
+3. System Features and Requirements
+
+            3.1 Functional Requirements - Heres a rough list but proper user stories with weight will be on Jira, espcially with that dot chart thing that gets more red
+            the older the user story gets.
+            #1. The system must have a text box where users type text, save, and load their saved text upon logging in to the web app.
+
+            3.2 External Interface Requirements
+
+            3.3 System Features
+
+            3.4 Nonfunctional Requirements
+            
+  Planning phase- User stories
                   
    1.As a user I would like to see my trades on the main page of the app
    2.As a user I would like a text box to write text into under the trade details on the main page of the app.
    3.As a user I would like there to be stats showing me trends in my trades on the main page of the app.
    (Biggest losses on big news days, major losses during counter trend trades etc.)
    4.As a user I would like this to be saved for next time I use the app.
-                  
-                  
+            
   
   
   */
