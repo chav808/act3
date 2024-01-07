@@ -118,7 +118,8 @@ usin gcc [-c|-S|-E] [-std=standard]
   1.6.24
   -goalpost set: reverse engineer
   1.7.24
-  scope for tradezella:
+  -start with login page into dashboard, find best tool to use for this keeping in mind that
+  we are deploying it for real users and need security stuff and what not.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------
   
   Project Idea: *WebApp* TradeZella but Free,  (goal is to get a whole lotta users not 2 customers)
