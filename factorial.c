@@ -103,6 +103,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   if more than 1 textbook is needed than get the bookpack
   else if its 1 textbook dont get the bookpack.
 
+  1.6.24
+  -goalpost set: reverse engineer
+  
   cop4610 op sys taught by KBA (IN PERSON) (Tue. & Thur. 12:30pm-1:45pm) @ 105 in PG6
   ^syllbus not online must wait it out till 6th or sumn
   
