@@ -129,7 +129,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   the highest weighted features/non-negotiables would be of course showing the user's trades neatly and 
   letting them type AND showing stats/trends in their behavior. Those 3 are necessary
   (trade's info being type of contract, time spent in the trade, profit, etc.)
-  
+
+  1.16.24
+  -1st OS zybooks
   
     Software Requirements Specification
                   
