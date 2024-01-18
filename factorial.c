@@ -138,8 +138,36 @@ usin gcc [-c|-S|-E] [-std=standard]
 
   1.18.24 
   -O.S. principles,   
-                  
-    1. Introduction - Dango Trade Diary (named after dangos that got 3 rice balls, the design is similar its 3 circles 
+  https://www.geeksforgeeks.org/fork-system-call-in-operating-system/
+  ^solid understanding of this pieces it together
+  //old exam question
+  //complete the following program and identify the values of pid at lines A,B,C and D.
+ 
+  int main()
+  {
+  pid_t pid, pid1;
+  pid = /* fork a child process */ 
+  //this is A^
+
+  if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
+
+  else if(pid == /* child process */){
+  pid 1 = getpid();
+  //child: pid = 1111
+  //child: pid1 = 2222 
+  }
+else{/* parent process*/}
+pid1=getpid();
+//parent: pid = 3333
+//parent: pid1 = 444
+wait(NULL);
+}
+return 0
+}
+  
+  '
+    
+    1. Introduction -  Trade Diary ( the design is similar its 3 circles 
     on your screen top one is your trade[green or red], middle is the details section / notes[white]), last is stats based
     on your trade/similarities noticed -->(3rd losing trade this week have all been counter trend and held over 10mins)
 
