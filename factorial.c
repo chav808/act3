@@ -103,6 +103,7 @@ usin gcc [-c|-S|-E] [-std=standard]
   if more than 1 textbook is needed than get the bookpack
   else if its 1 textbook dont get the bookpack.
 
+
   
   cop4610 op sys taught by KBA (IN PERSON) (Tue. & Thur. 12:30pm-1:45pm) @ 105 in PG6
   ^syllbus not online must wait it out till 6th or sumn
@@ -134,6 +135,9 @@ usin gcc [-c|-S|-E] [-std=standard]
   -1st OS zybooks
   
     Software Requirements Specification
+
+  1.18.24 
+  -O.S. principles,   
                   
     1. Introduction - Dango Trade Diary (named after dangos that got 3 rice balls, the design is similar its 3 circles 
     on your screen top one is your trade[green or red], middle is the details section / notes[white]), last is stats based
