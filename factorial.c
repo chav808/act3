@@ -149,7 +149,13 @@ usin gcc [-c|-S|-E] [-std=standard]
   pid = /* fork a child process */ 
   //this is A^
 
-//next assignment will be able to present stuff 
+  /*
+  1.21.24
+  All thats left is G2 due tomorrow for the zybooks challenge activities for operating systems.
+  
+
+  */
+  //next assignment will be able to present stuff 
 
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
