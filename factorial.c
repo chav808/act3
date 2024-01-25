@@ -152,7 +152,10 @@ usin gcc [-c|-S|-E] [-std=standard]
   /*
   1.21.24
   All thats left is G2 due tomorrow for the zybooks challenge activities for operating systems.
-  
+
+  1.25.24
+  os principles: slides from chp.4
+  -
 
   */
   //next assignment will be able to present stuff 
