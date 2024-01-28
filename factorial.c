@@ -162,7 +162,11 @@ usin gcc [-c|-S|-E] [-std=standard]
   -where does zybooks start? 
   This one starts at 3.2 with the challenge activities and ends at 3.3 as 3.5 is due on 2/5/24 for some reason
   -Before EOD try to get these out the way to begin some db work. 
-
+  -The challenge activity is lierally the class exercise where we had learned FCFS to order the processes (P1,P2,P3)
+  -ETA on how long to finish these 2 zybooks is like 3 hours prob + 30 min to start the assignment 1 or at least get the envrnment set up
+  1.28.24
+  -same biz but finishin it
+  
   */
   //next assignment will be able to present stuff 
 
