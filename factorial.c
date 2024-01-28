@@ -157,6 +157,10 @@ usin gcc [-c|-S|-E] [-std=standard]
   os principles: slides from chp.4
   -
 
+  1.27.24
+  -next zybooks and commence the 2 db classes:
+  -where does zybooks start? 
+
   */
   //next assignment will be able to present stuff 
 
