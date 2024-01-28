@@ -160,6 +160,8 @@ usin gcc [-c|-S|-E] [-std=standard]
   1.27.24
   -next zybooks and commence the 2 db classes:
   -where does zybooks start? 
+  This one starts at 3.2 with the challenge activities and ends at 3.3 as 3.5 is due on 2/5/24 for some reason
+  -Before EOD try to get these out the way to begin some db work. 
 
   */
   //next assignment will be able to present stuff 
