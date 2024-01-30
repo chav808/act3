@@ -167,6 +167,13 @@ usin gcc [-c|-S|-E] [-std=standard]
   1.28.24
   -same biz but finishin it
   
+  1.30.24
+  -O.S. Principles: the programming assignment is due saturday, its using the fork function to do math stuff
+  and aside from the .c file with the code we need a brief report explaining the design choices and the lessons
+  learned during the implementation.
+  
+  
+  
   */
   //next assignment will be able to present stuff 
 
