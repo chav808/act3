@@ -171,7 +171,25 @@ usin gcc [-c|-S|-E] [-std=standard]
   -O.S. Principles: the programming assignment is due saturday, its using the fork function to do math stuff
   and aside from the .c file with the code we need a brief report explaining the design choices and the lessons
   learned during the implementation.
+
+
+  /* here's the code so far,
+
+  #include stdio.h
+
+  /*This program is a simulation of parallel task execution-process forking makes
+  n number of child processes performing unique jobs, while te parent process will
+  wait for these child processes to finish before displaying a final result.
+  */
+  //Luis Chavez, 6119616
+int main(){
+
+
+
+return 0;
+}
   
+  */
   
   
   */
