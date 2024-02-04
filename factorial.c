@@ -176,12 +176,16 @@ usin gcc [-c|-S|-E] [-std=standard]
   /* here's the code so far,
 
   #include stdio.h
-
+d
   /*This program is a simulation of parallel task execution-process forking makes
   n number of child processes performing unique jobs, while te parent process will
-  wait for these child processes to finish before displaying a final result.
-  */
-  //Luis Chavez, 6119616
+d  wait for these child processes to finish before displaying a final result.
+  
+
+//Luis Chavez, 6119616
+
+2.3.24 ez will finish in this last fateful hour
+*/
 int main(){
 
 
