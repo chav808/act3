@@ -185,6 +185,8 @@ d  wait for these child processes to finish before displaying a final result.
 //Luis Chavez, 6119616
 
 2.3.24 ez will finish in this last fateful hour
+2.4.24 found out the zybooks is just a single one and finish the CTS work
+
 */
 int main(){
 
