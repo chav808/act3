@@ -172,15 +172,31 @@ usin gcc [-c|-S|-E] [-std=standard]
   and aside from the .c file with the code we need a brief report explaining the design choices and the lessons
   learned during the implementation.
 
+1
+  /* 
 
-  /* here's the code so far,
-
-  #include stdio.h
-d
   /*This program is a simulation of parallel task execution-process forking makes
   n number of child processes performing unique jobs, while te parent process will
-d  wait for these child processes to finish before displaying a final result.
-  
+  wait for these child processes to finish before displaying a final result.
+
+
+2.6.24 - more exam info
+0.Round robin and those type of scheduling questions so just do ZyBooks, avg turn around times - only gotta provide the 
+final equation cuz we dont need calculators ------fcfs is not on exam, but the zybooks 3 stuff will b there too (ONLY DRAWIN GANTT CHART) for those---------
+1.Alrdy noted above, but test has definitions to be matched by o.s. vocab
+2.Privelged instructions - review them to answer comprehendsion/scenario questions (writtten)
+3.Multiple choice questions - Processes, threads, kernel, scheduling algos, diff processes states(the ready->suspended bs),
+parallelism, no c programming being written BUT there will be a c program with fork system call to be questioned upon. 
+Understanding that the child is a copy of the parent.
+Real time scheduling algo as well.
+4.no calculation on waiting time and such
+
+SJF canvas example, Non-preemptive
+Turn around time = compltion time - arrival time 
+when doing the gant chart, its always arrival time = 0 first and then, 
+ordered by the shortest total cpu time 
+
+RoundRobin scheduling mistake: not keeping track of the ready queue.
 
 //Luis Chavez, 6119616
 
