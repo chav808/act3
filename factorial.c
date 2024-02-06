@@ -1,7 +1,7 @@
 
-#include <stdio.h>
-//run this thru gdb again
 /*
+//run this thru gdb again
+
 next one will be sequence of the fibs
 or percent gain calc
 
@@ -173,11 +173,18 @@ usin gcc [-c|-S|-E] [-std=standard]
   learned during the implementation.
 
 1
-  /* 
+  
 
-  /*This program is a simulation of parallel task execution-process forking makes
+  This program is a simulation of parallel task execution-process forking makes
   n number of child processes performing unique jobs, while te parent process will
   wait for these child processes to finish before displaying a final result.
+
+
+//Luis Chavez, 6119616
+
+2.3.24 ez will finish in this last fateful hour
+2.4.24 found out the zybooks is just a single one and finish the CTS work
+2.5.24 zybook 3 legit
 
 
 2.6.24 - more exam info
@@ -198,25 +205,43 @@ ordered by the shortest total cpu time
 
 RoundRobin scheduling mistake: not keeping track of the ready queue.
 
-//Luis Chavez, 6119616
 
-2.3.24 ez will finish in this last fateful hour
-2.4.24 found out the zybooks is just a single one and finish the CTS work
-2.5.24 zybook 3 legit
-*/
-int main(){
+2/6/24 - one of the db class, its all zybooks
+
+zybooks 3.2.4 sjf example refresh
+
+PROGRMNG ASSIGNMNT 2 FOR OS
+User inputs the # of processes along with burst time & arrival time for each process.
+in addition to the desired scheduling algorithm.  this all comes from a txt file so the 
+program will read that file.
+
+file descriptor, so since we want to access stuff from this file theres the concept of 
+the file descriptor and so the 'FILE *file' makes a pointer to the file and then file
+funcs that start with f like f gets, file = fopen(argv[1], "r") gere ra means read also
+we open the file, then we scan the file with fscan(file, %d, num_process)
+when done gotta put fclose(file)
 
 
+process arrvl time  total cpu time/burst time?(is it same)
+p1      0            6 
+p2      1            1
+p3      2            4
 
-return 0;
-}
-  
-  */
-  
-  
-  */
+Round Robin algo, 1.we got a queue 2.priority is based on position of that queue 
+3.this highest priority process then can run for Q time units(time quantum), q ends
+& the process is moved to the end of the queue.
+ex:
+process arrvl-time  total cpu time/burst time?(is it same)
+p1      n/a            4 
+p2      n/a            4
+p3      n/a            2
+
+so the q is 1 here there will be blocks on the gant chart only of size 1 until it meets
+the total cpu time
+
+
   //next assignment will be able to present stuff 
-
+/*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
   else if(pid == /* child process */){
@@ -232,7 +257,7 @@ wait(NULL);
 }
 return 0
 }
-  
+  /*
   '
     
     1. Introduction -  Trade Diary ( the design is similar its 3 circles 
@@ -281,6 +306,7 @@ return 0
   
   
   */
+#include <stdio.h>
 
 int main()
 {
