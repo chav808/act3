@@ -240,6 +240,9 @@ so the q is 1 here there will be blocks on the gant chart only of size 1 until i
 the total cpu time
 
 
+2.7.24
+-zybooks based on above
+
   //next assignment will be able to present stuff 
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
