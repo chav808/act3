@@ -242,7 +242,8 @@ the total cpu time
 
 2.7.24
 -zybooks based on above
-
+2.9.24 - zybooks but for db class, small futures scalp
+  
   //next assignment will be able to present stuff 
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
