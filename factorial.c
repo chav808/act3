@@ -246,6 +246,9 @@ the total cpu time
 
 2.11.24 - complete journal, complete g2 work for PA2
   //next assignment will be able to present stuff 
+
+2.11.24
+-zybooks for cop4751, data strge & beyond
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
