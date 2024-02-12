@@ -249,6 +249,7 @@ the total cpu time
 
 2.11.24
 -zybooks for cop4751, data strge & beyond
+-stuff left because it is empirical knowledge from readin earlier chapters --> 5.2.1 challeng activity, 
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
