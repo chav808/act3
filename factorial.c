@@ -252,6 +252,9 @@ the total cpu time
 -stuff left because it is empirical knowledge from readin earlier chapters --> 5.2.1 challeng activity, 
 ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SECTION 5.8 AND 5.9 have labs to finish
 
+2.12.24
+-finishing 5.2.1 and 5.3.1 4 zybooks
+
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
