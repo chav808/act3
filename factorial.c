@@ -255,22 +255,12 @@ ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SE
 2.12.24
 -finishing 5.2.1 and 5.3.1 for zybooks
 -^answrs exist 'elsewhere'
-/*
-  if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
-  else if(pid == /* child process */){
-  pid 1 = getpid();
-  //child: pid = 1111
-  //child: pid1 = 2222 
-  }
-else{/* parent process*/}
-pid1=getpid();
-//parent: pid = 3333
-//parent: pid1 = 444
-wait(NULL);
-}
-return 0
-}
+2.13.24
+-chp 6 for o.s.
+-finish labs for db zybooks
+
+
   /*
   '
     
