@@ -260,8 +260,42 @@ ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SE
 -chp 6 for o.s.
 -finish labs for db zybooks
 
+/*
+Process i
 
-  /*
+while (true){
+
+flag[i] = true;
+turn = j;
+while (flag[j] && turn = = j)
+;
+//critical section 
+flag[i] = false;
+//remainder section 
+}
+
+Process j
+
+while (true){
+
+flag[j] = true;
+turn = i;
+while (flag[i] && turn = = i)
+;
+//critical section 
+flag[j] = false;
+//remainder section 
+}
+
+The while loop of both processes(they runnin concurrently) makes sure that these proccesses arent running @ the same time. 
+^the idea is rom the topic of critical sections / petersons solution
+
+  ^^'once one thread or process has entered the critical section, all other threads 
+  or processes must wait until the executing thread or process exits the critical section'
+
+*/
+
+/*
   '
     
     1. Introduction -  Trade Diary ( the design is similar its 3 circles 
