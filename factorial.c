@@ -253,8 +253,8 @@ the total cpu time
 ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SECTION 5.8 AND 5.9 have labs to finish
 
 2.12.24
--finishing 5.2.1 and 5.3.1 4 zybooks
-
+-finishing 5.2.1 and 5.3.1 for zybooks
+-^answrs exist 'elsewhere'
 /*
   if (pid < 0) {/* error occurred */ fprintf(stderr,"Fork Failed"); return 1; }
 
