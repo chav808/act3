@@ -258,7 +258,8 @@ ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SE
 
 2.13.24
 -chp 6 for o.s.
--finish labs for db zybooks
+-finish labs for db zybooks(Left off on 5.9.1, does not highlight the right part of the table 
+also missing some part of the table)
 
 /*
 Process i
