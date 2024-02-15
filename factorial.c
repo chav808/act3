@@ -261,6 +261,13 @@ ALSO 5.3.1 challenge activity involving # of blocks to process something ALSO SE
 -finish labs for db zybooks(Left off on 5.9.1, does not highlight the right part of the table 
 also missing some part of the table)
 
+2.15.24
+-Requirements for Critical-Section Solutions
+1. Mutual Exclusion. If process Pi is executing in its critical section (CS), then no other process can execute in its CS.
+2. Progress. If no process is executing in its CS and there exist some processes that wish to enter their CS, then the selection of the process that will enter the CS next cannot be postponed indefinitely.
+3. Bounded Waiting. There exist a bound on the number of times that other processes are allowed to enter their CS after a process has made a request to enter its CS and before that request is granted.
+
+
 /*
 Process i
 
