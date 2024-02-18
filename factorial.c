@@ -267,7 +267,8 @@ also missing some part of the table)
 2. Progress. If no process is executing in its CS and there exist some processes that wish to enter their CS, then the selection of the process that will enter the CS next cannot be postponed indefinitely.
 3. Bounded Waiting. There exist a bound on the number of times that other processes are allowed to enter their CS after a process has made a request to enter its CS and before that request is granted.
 
-
+2.18.24
+-4.2 to 4.3 zybooks
 /*
 Process i
 
