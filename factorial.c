@@ -273,6 +273,10 @@ also missing some part of the table)
 -same as above^ but by any means, bounded buffer problem & semaphores
 -DONE & DONE
 
+2.20.24
+-PA 2 w/ the file upload and simulation of cpu scheduling
+-finish hw before MIA to CDG
+
 /*
 Process i
 
