@@ -276,6 +276,8 @@ also missing some part of the table)
 2.20.24
 -PA 2 w/ the file upload and simulation of cpu scheduling
 -finish hw before MIA to CDG
+2.22.24
+-DB quizes due until 2.25.24
 
 /*
 Process i
