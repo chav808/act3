@@ -288,6 +288,8 @@ also missing some part of the table)
 -6.1.1 challenge activity + 6.2.1 challenge activity + 6.3.1 challenge ativity(concurrency) + 6.4.1 challenge activity (recovery) + 6.5.1 challenge activity + 6.6 LAB
 ^due to the nature of the work, finishing these all in reverse order to them being listed.
 
+2.25.24
+-Zybooks for OS finish today but due on 2.26.24
 /*
 Process i
 
