@@ -283,6 +283,11 @@ also missing some part of the table)
 -zybooks 4.5 and DB stuff is all thats left
 -
 
+2.24.24
+-EMERGENCY FINISH ZYBOOKS DB --- 6.1-6.6 LAB
+-6.1.1 challenge activity + 6.2.1 challenge activity + 6.3.1 challenge ativity(concurrency) + 6.4.1 challenge activity (recovery) + 6.5.1 challenge activity + 6.6 LAB
+^due to the nature of the work, finishing these all in reverse order to them being listed.
+
 /*
 Process i
 
