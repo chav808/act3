@@ -290,6 +290,10 @@ also missing some part of the table)
 
 2.25.24
 -Zybooks for OS finish today but due on 2.26.24
+DONE
+-only pertinent task left is the DB following steps on word doc stuff 
+-however, that can b done when we return
+
 /*
 Process i
 
