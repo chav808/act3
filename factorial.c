@@ -292,7 +292,7 @@ also missing some part of the table)
 -Zybooks for OS finish today but due on 2.26.24
 DONE
 -only pertinent task left is the DB following steps on word doc stuff 
--however, that can b done when we return
+-however, that can b done when we return (the small DB quiz and assignment and small O.S. quiz both due sunday)
 
 /*
 Process i
