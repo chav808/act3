@@ -294,6 +294,11 @@ DONE
 -only pertinent task left is the DB following steps on word doc stuff 
 -however, that can b done when we return (the small DB quiz and assignment and small O.S. quiz both due sunday)
 
+3.2.24
+-finish check in quiz for tomorrow and DB quiz + DB follow through work
+-myidtravel and add the peeps on there lol
+-recover
+
 /*
 Process i
 
