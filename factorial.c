@@ -299,6 +299,12 @@ DONE
 -myidtravel and add the peeps on there lol
 -recover
 
+3.4.24
+-tmmrw print and place qr
+-find chp7 os
+-research for web app
+
+
 /*
 Process i
 
