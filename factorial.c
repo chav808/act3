@@ -307,6 +307,18 @@ DONE
 3.6.24
 -same as abv but annex sites for businesses.
 
+3.7.24
+-example with determining which processes are deadlocked, 
+-there are resources r and processes p on the chart with edges(arrows pointing from p to r)
+-most o.s.'s ignore the deadlocks, leaves it up to the devs
+-semaphores & mutex locks cant be shared
+
+
+-safe state: it is possible to execute the threads in an order where they will be allocated enough resources to avoid deadlock.
+-how do we know its in a safe state? find safe sequence, this^
+-bankers algorithm: can we find this safe sequence, the slides for ch.8 has the data structures for the bankers algo explained
+-
+
 /*
 Process i
 
