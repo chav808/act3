@@ -304,6 +304,8 @@ DONE
 -find chp7 os
 -research for web app
 
+3.6.24
+-same as abv but annex sites for businesses.
 
 /*
 Process i
