@@ -317,7 +317,21 @@ DONE
 -safe state: it is possible to execute the threads in an order where they will be allocated enough resources to avoid deadlock.
 -how do we know its in a safe state? find safe sequence, this^
 -bankers algorithm: can we find this safe sequence, the slides for ch.8 has the data structures for the bankers algo explained
+-^needs are compared to what we have available, each resource type is compared. 
 -
+
+3.10.24
+-getting stuff done to avoid disaster this week,(2 midterms)
+-1 midterm is for db's and we gotta take it monday or tuesday morning
+-1 midterm is for OS
+-do zybooks for OS now cuz its long, it is due tomorrow 
+-B.A.M. combined with understanding it to complete the O.S. zybooks
+-ALSO the DB zybooks has one section left for that complete 60/60
+
+most urgent: -aquiring info on this midterm to take it tomorrow in the AM as Tuesday we have class so tomorrows the last day to do it
+             -zybooks due tomorrow for OS don't let it slip by is all and midterm for OS could be soon so do zybooks w/ integrity
+
+
 
 /*
 Process i
