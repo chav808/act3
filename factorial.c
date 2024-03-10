@@ -330,8 +330,12 @@ DONE
 
 most urgent: -aquiring info on this midterm to take it tomorrow in the AM as Tuesday we have class so tomorrows the last day to do it
              -zybooks due tomorrow for OS don't let it slip by is all and midterm for OS could be soon so do zybooks w/ integrity
+             -review weeks trades
 
+less urgent: -zybooks 1 for DB and research how to best contact the proferssor to let em know
+              -webapp
 
+        
 
 /*
 Process i
