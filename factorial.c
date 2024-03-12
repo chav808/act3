@@ -335,7 +335,22 @@ most urgent: -aquiring info on this midterm to take it tomorrow in the AM as Tue
 less urgent: -zybooks 1 for DB and research how to best contact the proferssor to let em know
               -webapp
 
-        
+3.12.24
+-recovering from deadlock: kill process --> which one first? --> the one thats getting started (killin the longer process means you gotta start all that work
+again and thats not very efficient)
+OR
+-take resources away from processes
+(starvation[thread cant get acess to resources] --> could happen if you pick the same processes)
+
+No pre emption - a condition that ensures that resources, once allocated, cannot be forcibly taken away from a process. 
+
+can use semaphores, mutex locks, monitors, etc for solution (canvas only says semaphores)
+-solution has to be 'fair' meaning the writer and reader are provided their times
+https://www.geeksforgeeks.org/difference-between-mutex-and-monitor-in-os/
+
+
+-exam is 3/22/24
+
 
 /*
 Process i
@@ -417,7 +432,8 @@ The while loop of both processes(they runnin concurrently) makes sure that these
    3.As a user I would like there to be stats showing me trends in my trades on the main page of the app.
    (Biggest losses on big news days, major losses during counter trend trades etc.)
    4.As a user I would like this to be saved for next time I use the app.
-            
+
+  
   
   
   */
