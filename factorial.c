@@ -348,6 +348,9 @@ can use semaphores, mutex locks, monitors, etc for solution (canvas only says se
 -solution has to be 'fair' meaning the writer and reader are provided their times
 https://www.geeksforgeeks.org/difference-between-mutex-and-monitor-in-os/
 
+3.17.24 - Finish journal notes of deadlocks
+        - review of trading journal
+        -the stack used for PROJECT: trading journal
 
 -exam is 3/22/24
 
