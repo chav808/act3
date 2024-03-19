@@ -352,6 +352,44 @@ https://www.geeksforgeeks.org/difference-between-mutex-and-monitor-in-os/
         - review of trading journal
         -the stack used for PROJECT: trading journal
 
+---------------------------------------------------------------------------------------------------------------------------------
+3.19.24
+-Practice Exam 2 Problem 2
+the 1 asking the pros & cons of the 3 diff ways O.S. handles deadlocks, 
+1.Deadlock prevention 2.Deadlock avoidance 3.Deadlock detection 
+
+3.(Detection algo, safe sequences & sees the processes are stuck and the detection algo is run -> we recover from this
+by terminating the R's or rollback to safe state OR preempt resources / take em away)
+
+why O.S. ignore deadlocks?
+-because its cheaper for the system, rely on the developers as its a rare problem, cheaper as in you dont have to run bankers algo
+detection algo.
+
+- for bankers: after max - need, less-than intial checks so it should not exceed the need, 
+- SPAM this one https://learn.zybooks.com/zybook/FIUCOP4610BenAhmedSpring2024/chapter/5/section/3
+
+-for CS problem with lock set to TRUE #1 is not possible as it would have to be 2 difff Processors holding true for lock
+
+-pthreads and multithreaded applications (probably multiple choice)
+
+--exam will not have paging
+--exam will not have next fit
+--exam will not have one similar to question 4, a ready implementation will be given to argue whether it is a critical section solution
+prove mutual exclusion.
+ ex answer:'this is not a cs solution bc at least 1 condnition does not hold...'
+
+
+
+
+-we define main memory as the bridge between the disk and the cpu, the cpu CANT acess the disk directly
+main memory comes in the bad part is its volatile memory and smaller size but faster retrieval, cpu keeps all
+temp instructrions it needs for the current task here
+
+-Memory Management Unit(MMU) translates logical addys to physical addys
+-compaction: shift all of the used partitions to one side and ur left with bigger empty hole to put the new processes or requests
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 -exam is 3/22/24
 
 
