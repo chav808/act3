@@ -384,7 +384,7 @@ Parts left to study,
 #1. bankers algo
 #2. (FINISH 2ND HALF OF DEADLOCK CONCEPTS) Discuss the advantages and disadvantages of the 3 different ways an OS can use to handle deadlocks.
 #3. (S.O.S.) Problem 3 & 4 of practice, 3 is CS problem,
---------4 is more implementing threads [most important one]----------
+--------4 is more implementing threads [most important one]----------(turn and flag, petersons solution(polite solution), )
 
 
 
