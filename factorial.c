@@ -380,6 +380,13 @@ prove mutual exclusion.
 
 
 
+Parts left to study,
+#1. bankers algo
+#2. (FINISH 2ND HALF OF DEADLOCK CONCEPTS) Discuss the advantages and disadvantages of the 3 different ways an OS can use to handle deadlocks.
+#3. (S.O.S.) Problem 3 & 4 of practice, 3 is CS problem,
+--------4 is more implementing threads [most important one]----------
+
+
 
 -we define main memory as the bridge between the disk and the cpu, the cpu CANT acess the disk directly
 main memory comes in the bad part is its volatile memory and smaller size but faster retrieval, cpu keeps all
