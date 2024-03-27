@@ -398,6 +398,27 @@ temp instructrions it needs for the current task here
 -----------------------------------------------------------------------------------------------------------------------------------
 
 -exam is 3/22/24
+3.26.24
+-Same page table / logic/physical address mapping as the one from comp arch-
+computing # of pages 
+
+-givens: page size of 512 words(or 2^9 bits), address space  w/ an adress size of 16 bits
+
+how many bits do i need to adress these 512 words
+16 - 9 bits is 7 bits needed for the page number
+
+-offset is the index used to visit the words in these problems
+
+A logical address space consisiting of 4 pages of 4096 words each and is mapped onto physical memory of 64 frames.
+
+a)Logical addy space size? bits needed to address every word?
+14 Bits, multiplying the 4 pages by 4096 words or doing 2^14 yields the words
+
+
+b)Physical addy space size? bits needed to address every word?
+2^16
+
+3.26.24
 
 
 /*
