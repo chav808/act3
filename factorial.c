@@ -418,7 +418,33 @@ a)Logical addy space size? bits needed to address every word?
 b)Physical addy space size? bits needed to address every word?
 2^16
 
-3.26.24
+
+3.28.24
+-1 way memory is protected if paging is used is by the mmu only allowing the process to access the pages by checking if the pages are valid
+
+-how does mmu translate logical addy to physical addy
+here's thenformula
+mmu divides addressby the page size yielding the page # and the remainder is the offset
+
+Ex)
+Just find the page # and offset given the addresses 
+(translating the logical address to physical--> 5119, 5120, 33300)
+LOGICAL ADDY   | 5119/512 = 9 remainder 0
+PHYSICAL ADDY  |  4*512 +0 = 2048 +0
+
+Degree of multiprogramming - # of processes executing AT A TIME, 
+Demand paging - only loading the process when it is needed
+Not memory resident - the page that has not been loaded yet
+
+The MMU can also use the valid/invalid bit to know if the page is in memory (its set to 1 if yes)
+After the mmu checks the valid/invalid bit and that its a memory resident the kernel then checks if that
+process has the right
+
+The process starts executing even tho the page is not 
+-Effective Access Time, will b on test
+
+https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/
+
 
 
 /*
