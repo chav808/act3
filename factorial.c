@@ -445,7 +445,9 @@ The process starts executing even tho the page is not
 
 https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/
 
-
+4.2.24
+-mern stack, pivoting the journal to reward user for consistency, (like each journal entry where you followed your plan earns you another leaf on the tree)
+-plan rest of week for the on campus events 
 
 /*
 Process i
