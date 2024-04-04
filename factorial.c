@@ -530,7 +530,49 @@ The while loop of both processes(they runnin concurrently) makes sure that these
    (Biggest losses on big news days, major losses during counter trend trades etc.)
    4.As a user I would like this to be saved for next time I use the app.
 
+  4.4.24 No longer talkn bout Vmemory, Files
+  abs-referencing starting with root
+  relative-referencing within folder
   
+  vocab
+  reference count - # of pointers to file
+  symbolic link - USED for when we wanna delete the file without errors since a bunch of other stuff is using that file
+  ^(not an actual phsyical link so, deletes this not the file itself)
+
+  fcb practice
+  The create operation must specify the
+
+  Avoid duplct file names, create op must search ___
+  -The current directory
+
+  The destroy operation must__
+  -search directry for file name
+  -free directry entry corresponding to the file
+  -The WHOLE FCB is destroyed so no pointers to the disk block gotta be destroyed
+
+  The file name is
+  supplied as aparameter to the open operation
+
+  The file length is extracted from the fcb
+
+
+  A file contains the 26 characters "a" through "z" the file is open with the oft index 3 the block size is 16 bytes
+  the following operations are issued
+  1.read 3, m, 1
+  2. read 3, m, 24
+  3. read 3,m, 1
+  operation explained:
+  read 3m n 1
+  read reads
+  3 from index 3 in memory
+  m from read and write before from memory lcoation called m
+  1 is the size of how many bytes being read so you wanna read 1 byte
+  
+  After op 3 the 1st byte of the memory area m will contain the character z
+  The final character as we see #1,#2 1 and 24 combine to 25, taking up 25 of 26 characters mentioned above in the problem.
+
+Password: MacY99
+Extra Credit 6 Take Home^ Practice of the page replacement algorithms
   
   
   */
