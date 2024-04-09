@@ -449,6 +449,80 @@ https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/
 -mern stack, pivoting the journal to reward user for consistency, (like each journal entry where you followed your plan earns you another leaf on the tree)
 -plan rest of week for the on campus events 
 
+4.9.24
+-primary storage: temporary
+-secondary storage: permanent think the deeper layer--> more serious.
+
+--disks--
+
+RANDOM NOTES
+-The time to seek from one track to another depends on the # of tracks on the disk.
+-Sector 0 IS THAT FIRST PART / Outermost cylinder...where we keep bootstrap stuff
+-Track seeks from the outside to inward.
+
+"THIS IS AN EXAM QUESTION"
+A disk has 800 tracks per surface, 180 sectors per track, and 512 bytes per sector. The disk has 1 platter. The disk rotates 5000 rpm (roatation per minute). The seek time between adjacent tracks is 2ms.
+
+1. Determine the total storage capacity of the disk 512 x 180 x 800 x 2(both sides)
+2. Determine the num of seek operation to read the entire disk. Well, to visit the entire disk you would have to visit 800 tracks, one track to the next (ASSUMING ITS SEQUENTIAL SO OUTER TO INNERMOST TRACK ON DISK)
+3. How much data in bytes each track has? 180 x 512 = 92k
+4. How long 1 rotation takes? 1 min is 5000 r's so 1 rotation is how long? 1/5000 so 1ms i guess, (just use the conversion formula) nah it is 1/5000 0.125 seconds
+5.How much time needed to visit all sectors of 1 track? 1 rotation
+we want read write head to read data from all the sectors so we want 1 rotation
+6.What is the transfer time of 1 sector?
+0.067ms
+
+
+other example involving the SCAN algo for disk retrieivng info
+the r/w head is at tracj 30 and is moving up when requests for tracks 60,40,20,10 arrive
+Under DCAN, tje total traval distance of the r/w head is ____ tracks.
+
+first 30, we go 30 to 10, then go all the way to 0 then switch directions and service 40, service 60, 
+
+
+
+The r/w head of a disk is at track 143 The previous position was track 9l 
+Requests to access the following tracks have aarrived: 143, 86, 1470, 913, 1774, 1509, 1022, 1750, 130 
+
+In which order will the tracks be visited using: FIFO,SSTF,SCAN,LOOK
+
+
+LOOK algo - looks ahead for the next process
+
+
+
+FINAL EXAM 4/18/23 
+TOPICS START FROM PAGING AND RANGE TO DISK(V-MEMORY, CRASHING,FILE SYSTEMS, DISKS)
+
+-Random note ab disk: Shortest seek time first will wear out hardware fast because of the constant switching of disk's arm (all the disk algos: FIFO,SSTF,SCAN,LOOK)
+
+homework explained
+Assignment description :
+
+Write a program in C to determine how many page faults will occur with a FIFO and LRU replacement policy(i think this is the zybooks addin and subbin #'s). 
+
+You will read from the command line 2 parameters as shown below:
+
+myprogram pagereffile numberofframes
+
+The file will have an integer set of page references separated by spaces without any newlines of space at the end of the line. The number of page references is not limited. The numberofframes must be between 1 and 10. You will output the number of page faults and the final state of memory.
+
+you can use the sample reference string used in class to verify the correctness of your program : 
+
+7 0 1 2 0 3 0 4 2 3 0 3 0 3 2 1 2 0 1 7 0 1
+Sample output
+./a.out myfile.txt 3
+FIFO: 15 page faults
+Final state of memory: 7 0 1 
+LRU: 12 page faults
+Final state of memory: 1 0 7 
+
+
+
+
+
+
+
 /*
 Process i
 
@@ -499,7 +573,6 @@ The while loop of both processes(they runnin concurrently) makes sure that these
 
            1.4 Product Scope - We hope to expand to 100k users as the product is free until further notice, accessible via chrome, safari
            EDGE, and most browsers.
-
            1.5 Definitions and Acronyms - SL stop loss, TP take profit, HOD high of day, LOD of day, 0dte 0 day to expration, cons contracts etc.
 
 2. Overall Description
@@ -510,7 +583,7 @@ The while loop of both processes(they runnin concurrently) makes sure that these
            2.2 Assumptions and Dependencies - We are assuming they are on a laptop/desktop computer with at least 2GB of RAM with browsers commonly used in 2024 
            installed on said computers, Google Chrome, Microsoft Edge, Brave etc.
 
-3. System Features and Requirements
+
 
             3.1 Functional Requirements - Heres a rough list but proper user stories with weight will be on Jira, espcially with that dot chart thing that gets more red
             the older the user story gets.
@@ -556,6 +629,7 @@ The while loop of both processes(they runnin concurrently) makes sure that these
   The file length is extracted from the fcb
 
 
+3. System Features and Requirements
   A file contains the 26 characters "a" through "z" the file is open with the oft index 3 the block size is 16 bytes
   the following operations are issued
   1.read 3, m, 1
