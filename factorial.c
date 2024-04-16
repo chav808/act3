@@ -491,7 +491,7 @@ LOOK algo - looks ahead for the next process
 
 
 
-FINAL EXAM 4/18/23 
+FINAL EXAM ON 4/18/23 
 TOPICS START FROM PAGING AND RANGE TO DISK(V-MEMORY, CRASHING,FILE SYSTEMS, DISKS)
 
 -Random note ab disk: Shortest seek time first will wear out hardware fast because of the constant switching of disk's arm (all the disk algos: FIFO,SSTF,SCAN,LOOK)
