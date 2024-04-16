@@ -517,7 +517,8 @@ Final state of memory: 7 0 1
 LRU: 12 page faults
 Final state of memory: 1 0 7 
 
-
+4.16.24 
+-Reading Zybooks: 1st start at PAGING, then continue on to V-MEMORY, CRASHING,FILE SYSTEMS, DISKS
 
 
 
