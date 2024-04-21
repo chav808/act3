@@ -418,13 +418,21 @@ a)Logical addy space size? bits needed to address every word?
 b)Physical addy space size? bits needed to address every word?
 2^16
 
+1.air
+2.water
+3.sleep
+4.food
+5.shelter
+6.connection
+7.creative expression, 
+express connections made
 
 3.28.24
 -1 way memory is protected if paging is used is by the mmu only allowing the process to access the pages by checking if the pages are valid
 
 -how does mmu translate logical addy to physical addy
 here's thenformula
-mmu divides addressby the page size yielding the page # and the remainder is the offset
+mmu divides address by the page size yielding the page # and the remainder is the offset
 
 Ex)
 Just find the page # and offset given the addresses 
@@ -519,7 +527,10 @@ Final state of memory: 1 0 7
 
 4.16.24 
 -Reading Zybooks: 1st start at PAGING, then continue on to V-MEMORY, CRASHING,FILE SYSTEMS, DISKS
+*Note for DISKS the example from class is the correct one not what zybooks is teaching.
+Write your own definition for each one
 
+PAGING - 
 
 
 
