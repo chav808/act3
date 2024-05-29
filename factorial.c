@@ -664,8 +664,13 @@ Extra Credit 6 Take Home^ Practice of the page replacement algorithms
 -CONTEXT FREE GRAMMAR
 -test
 
+5.29.24
+1:25-1:30 code path stuff
+1:30-1:40 ramp stuff
+1:40-2 back test stuff
+2-3:30 arm
 
-  
+
   */
 #include <stdio.h>
 
