@@ -670,6 +670,8 @@ Extra Credit 6 Take Home^ Practice of the page replacement algorithms
 1:40-2 back test stuff
 2-3:30 arm
 
+5.30.24
+till 6, write below all the possible deadlines for stuff: also delegate hrs for CodePath, T-Journal Project, HW, Backtesting
 
   */
 #include <stdio.h>
