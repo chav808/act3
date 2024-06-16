@@ -692,6 +692,7 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 - 
 
 **NOTE-DELAY: G2 delayed the rest as TRYING to understand the hw is takin some time(readin chp 4, checkin chegg, making response. Each of which is approx an hour)**
+-Note the answers ready just gotta translate it over to a canva diagram and find out how the other thing(compare diagram chart & diagram list) relates to it.
 
   */
 #include <stdio.h>
