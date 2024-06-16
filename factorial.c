@@ -682,7 +682,7 @@ G2-canvas hw(discussion on lexical analysis, DUE TOMORROW)
 -thats the only real recent deadline but I would like to nominate:
 
 G1-Backtesting jimmy strat + rp profits start with emphasis on strictly predetermining exact entries,exits, and sl
-(deadlines: market open tomorrow so i'd like to get to it today)
+(eadlines: market open tomorrow so i'd like to get to it today)
 
 G1.5-Apply to at least 1 ship', but also use the hour to go and catch up with the leetcode stuff
 
@@ -690,6 +690,8 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 -begin day 1 of learnin jp thru cm 
 -continue dev of journaling web app
 - 
+
+**NOTE-DELAY: G2 delayed the rest as TRYING to understand the hw is takin some time(readin chp 4, checkin chegg, making response. Each of which is approx an hour)**
 
   */
 #include <stdio.h>
