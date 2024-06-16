@@ -673,6 +673,24 @@ Extra Credit 6 Take Home^ Practice of the page replacement algorithms
 5.30.24
 till 6, write below all the possible deadlines for stuff: also delegate hrs for CodePath, T-Journal Project, HW, Backtesting
 
+6.16.24
+---------------------------------
+1hr allocated to G1,G1.5,G2
+priority list based on deadlines:
+
+G2-canvas hw(discussion on lexical analysis, DUE TOMORROW) 
+-thats the only real recent deadline but I would like to nominate:
+
+G1-Backtesting jimmy strat + rp profits start with emphasis on strictly predetermining exact entries,exits, and sl
+(deadlines: market open tomorrow so i'd like to get to it today)
+
+G1.5-Apply to at least 1 ship', but also use the hour to go and catch up with the leetcode stuff
+
+Those are what I chose for this new 3 hour a day system, here's the miscellaneous list:
+-begin day 1 of learnin jp thru cm 
+-continue dev of journaling web app
+- 
+
   */
 #include <stdio.h>
 
