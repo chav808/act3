@@ -689,13 +689,14 @@ G1.5-Apply to at least 1 ship', but also use the hour to go and catch up with th
 Those are what I chose for this new 3 hour a day system, here's the miscellaneous list:
 -begin day 1 of learnin jp thru cm 
 -continue dev of journaling web app
-- 
+-t
 
 **NOTE-DELAY: G2 delayed the rest as TRYING to understand the hw is takin some time(readin chp 4, checkin chegg, making response. Each of which is approx an hour)**
 
--Update: the answers ready just gotta translate it over to a canva diagram and find out how the other thing(compare diagram chart & diagram list) relates to it.
+-6/16 Update: the answers ready just gotta translate it over to a canva diagram and find out how the other thing(compare diagram chart & diagram list) relates to it.
 
 -2nd Update: Apllied to 'ship, feels like we're working on small bits of different tasks back and forth instead of allocating strictly 1hr of good focus to each.
+-3rd Update: Non negotiables -->Backtesting today at least oncce. & Organizing that journal for general stuff.
 
   */
 #include <stdio.h>
