@@ -698,6 +698,13 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 -2nd Update: Apllied to 'ship, feels like we're working on small bits of different tasks back and forth instead of allocating strictly 1hr of good focus to each.
 -3rd Update: Non negotiables -->Backtesting today at least oncce. & Organizing that journal for general stuff.
 
+6.21.24
+-training someone so wont get chance to trade ny open
+-best course of action is to see some price action live rn until 8 and then proceed with other tsks liker ltcode if the coast is clear.
+
+
+
+
   */
 #include <stdio.h>
 
