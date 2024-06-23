@@ -703,7 +703,8 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 -best course of action is to see some price action live rn until 8 and then proceed with other tsks liker ltcode if the coast is clear.
 
 
-
+6.23.24
+-hci stuff done keep momentum for backtest, and so on.
 
   */
 #include <stdio.h>
