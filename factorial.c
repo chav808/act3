@@ -706,6 +706,9 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 6.23.24
 -hci stuff done keep momentum for backtest, and so on.
 
+6.24.24
+-bcktst,  hckernk?
+
   */
 #include <stdio.h>
 
