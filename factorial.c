@@ -711,6 +711,16 @@ Those are what I chose for this new 3 hour a day system, here's the miscellaneou
 6.24.25
 -rewriting triple entente
 
+7.11.24
+mornin, decide which ones to knock out first from this list and get to toiling
+
+#1. Pinpoint topics to learn from that job description and begin learning (30 mins, knock it out and then put a pin on it to continue to #2)
+#2. Take care of the various G2 items left for us. Sunday July 14th(One big assignment it could either take a day or an hour), 
+Monday July 15th (2 assignments for princ. of programming)
+#3. Complete a written explanation of rp.profits strat to understand what’s up w that
+
+
+
   */
 #include <stdio.h>
 
