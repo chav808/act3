@@ -719,7 +719,8 @@ mornin, decide which ones to knock out first from this list and get to toiling
 Monday July 15th (2 assignments for princ. of programming)
 #3. Complete a written explanation of rp.profits strat to understand what’s up w that
 
-
+7.12.24
+began streamlit weather api proj in vs
 
   */
 #include <stdio.h>
