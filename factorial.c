@@ -722,6 +722,9 @@ Monday July 15th (2 assignments for princ. of programming)
 7.12.24
 began streamlit weather api proj in vs
 
+7.14.24
+almost dun
+
   */
 #include <stdio.h>
 
