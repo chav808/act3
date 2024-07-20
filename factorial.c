@@ -725,6 +725,8 @@ began streamlit weather api proj in vs
 7.14.24
 almost dun
 
+7.19.24
+write up g1.5 proposition + g1
   */
 #include <stdio.h>
 
