@@ -727,6 +727,10 @@ almost dun
 
 7.19.24
 write up g1.5 proposition + g1
+
+7.20.24
+gud effort
+
   */
 #include <stdio.h>
 
