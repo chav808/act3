@@ -731,6 +731,10 @@ write up g1.5 proposition + g1
 7.20.24
 gud effort
 
+8.4.24
+g1 intention for 8.5.24, as well as morning intention.
+
+
   */
 #include <stdio.h>
 
