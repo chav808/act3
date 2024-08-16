@@ -641,6 +641,7 @@ The while loop of both processes(they runnin concurrently) makes sure that these
   The file length is extracted from the fcb
 
 
+
 3. System Features and Requirements
   A file contains the 26 characters "a" through "z" the file is open with the oft index 3 the block size is 16 bytes
   the following operations are issued
